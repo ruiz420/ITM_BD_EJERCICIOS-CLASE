@@ -143,6 +143,5 @@ CREATE TABLE TituloFormato(
 
 -- CREAR LA TABLA
 
-C:\Users\Martin Ruiz\OneDrive - SENA\Documentos\SQL Server Management Studio 21
-
+----psjnhsdsfhskjfshdkfhdskjfshfksjhdk
 	
